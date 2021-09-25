@@ -2,7 +2,7 @@
 
 "Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto."
 
-O objetivo principal do projeto é a melhoria de uma página web da instituição AADV previamente iniciado por alunos da PUC do semestre passado, com o intuito de auxiliar e facilitar o acesso às informações da plataforma de pessoas que apresentem algum grau de deficiência visual, visto que hoje não é possível para esse publico o acesso ao site, sendo que a AADV atende muitas pessoas que se encaixam nesse perfil, o que acaba deixando-os limitados à necessidade de outra pessoa ajudá-los. Nossa meta é disponibilizar um site totalmente áudio visual, onde tudo que esteja escrito possa ser ouvido, de forma que essas pessoas consigam trafegar entre os conteúdos apenas movendo o cursor de um mouse (PC) ou o toque dos dedos (Mobile), assim dispensando o auxílio de outra pessoa.
+O objetivo principal do projeto é a melhoria de uma página web da instituição AADV previamente iniciado por alunos da PUC do semestre passado, com o intuito de auxiliar e facilitar o acesso às informações da plataforma de pessoas que apresentem algum grau de deficiência visual, visto que hoje não é possível para esse publico o acesso ao site, sendo que a AADV atende muitas pessoas que se encaixam nesse perfil, o que acaba deixando-os limitados à necessidade da ajuda de outras pessoas. Nossa meta é disponibilizar um site totalmente áudio visual, onde tudo que esteja escrito possa ser ouvido, de forma que essas pessoas consigam trafegar entre os conteúdos apenas movendo o cursor de um mouse (PC) ou o toque dos dedos (Mobile), assim dispensando o auxílio de outra pessoa.
 
 
 ## Problema
