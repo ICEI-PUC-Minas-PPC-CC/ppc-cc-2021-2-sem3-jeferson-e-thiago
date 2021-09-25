@@ -27,6 +27,13 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivo
+
+O nosso objetivo é auxiliar os deficientes visuais no uso do WebSite da instituição AADV, de forma a melhorar a experiência do usuário, para isso precisaremos
+ >Identificar as dificuldades dos usuários;
+ >Integrar áudios de "TalkBack" para as opções do site; 
+ >Adicionar opções de buscas por voz; 
+
 
 ## Justificativa
 
@@ -36,6 +43,8 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
+A instituição AADV, tem como objetivo a integração das pessoas com deficiência visual, visto isto o nosso objetivo maior é colaborar para esta finalidade à começar pelo site da institução, visando atender os usuários de maneira mais optimizada possível, melhorando a sua experiência e facilitando a sua busca.  
 
 ## Público-Alvo
 
@@ -49,3 +58,5 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
+O nosso público alvo serão de um único nicho, os usuários do site da instituição AADV com deficiência visual. 
