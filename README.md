@@ -1,19 +1,19 @@
-# TÍTULO DO PROJETO
+# Projeto de Continuidade do Site de Orientações a Deficientes Visuais da Instituição
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: Seminários
+`2021 - Semestre 2`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Jeferson Henrique Pereira
+- Thiago Junio Saraiva
+- Samuel Munhoz Tunes
+
 
 ## Professor
 
-- Mestre Yoda
+- Will Ricardo dos santos Machado
 
 # Documentação
 
