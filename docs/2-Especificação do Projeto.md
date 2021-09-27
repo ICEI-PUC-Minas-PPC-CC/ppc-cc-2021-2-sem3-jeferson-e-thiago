@@ -22,6 +22,12 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
+Camila Silva tem 09 anos, é uma criança com deficiência visual permanente. Ela é uma garota que sempre quis praticar esportes e poder interagir com outras crianças em diversas atividades em um ambiente seguro e acessível.
+
+Pedro Alves tem 23 anos, por conta de um infeliz acidente acabou parcialmente deficiente visual. Ele quer se adaptar e voltar a se integrar a sociedade, mas não tem meios e nem conhecimento. Além encontrar um ambiente que possa lhe fornecer melhores condições de acessibilidade.
+
+Luis Gomes tem 45 anos, é programador Front-End. Sempre busca ajudar o próximo com ações beneficientes e está em busca de instituições para apoiar, tanto como voluntário ou com doações.
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -32,6 +38,15 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`              | PARA ... `MOTIVO/VALOR`                             |
+|--------------------|-------------------------------------------------|-----------------------------------------------------|
+| Pedro Alves        | Ter controle sobre minhas ações no site/Mobile  | Entender passo a passo das minhas ações             |
+| Pedro Alves        | Seja audiovisual                                | Facilitar a navegação dentro do site/mobile         |
+| Pedro Alves        | Saber sobre a intituição                        | Verificar se essa instituição encaixa em meu ideais |
+| Pedro Alves        | Encontrar informações de contato/localidade     | Facilitar a comunicação com a intituição            |
+| Camila Silva       | Encontrar atividades oferecidas                 | Participar das atividades da instituição            |
+| Luis Gomes         | Contribuir para com a instituição               | Ser como um voluntário ou com doações               |
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
