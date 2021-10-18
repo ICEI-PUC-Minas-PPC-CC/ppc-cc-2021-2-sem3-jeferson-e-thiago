@@ -63,9 +63,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| mostrar a todo momento informações de contato. | ALTA | 
+|RF-002| O uso de cor deve apresentar um alto contraste.   | ALTA |
+|RF-003|No contraste proporção mínima recomendada de 4,5:1 para textos grandes e 7:1 para outros textos e imagens.  | MÉDIA |
+|RF-004| Ter links informativos, por exemplo no link aparecer “meu perfil” em vez de “clique aqui”, ou o URL completo.   | MÉDIA |
+|RF-005| Ter texto grande e alinhado à esquerda.| ALTA | 
+|RF-006| Usar texto além da formatação, pois é possível que os leitores de tela não identifiquem negrito ou destaques.   | BAIXA |
+|RF-007| Permitir que o usuário utilize o zoom em até 200% sem prejudicar o conteúdo. | Média | 
+|RF-008| Atalhos para conteúdo via teclado, como “tab” para trocar de páginas.  | Média |
+|RF-009| Botões com frase em imagens. | Média | 
+|RF-010| Utilizar conteúdo em áudiovisual.   | Média |
 
 ### Requisitos não Funcionais
 
